@@ -1,1 +1,5 @@
+askcb<<<<<<< HEAD
 aj 
+=======
+tata
+>>>>>>> first

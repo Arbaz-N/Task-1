@@ -1,1 +1,6 @@
+jbc<<<<<<< HEAD
 jnasb
+=======
+Bye
+
+>>>>>>> first
