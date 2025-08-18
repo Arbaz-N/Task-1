@@ -1,0 +1,11 @@
+dyuwu
+
+<<<<<<< HEAD
+yugyg
+=======
+<<<<<<< HEAD
+this is sample
+=======
+sample
+>>>>>>> a6d068b700a61f13754a7f5632338dbcd91b3060
+>>>>>>> e90247f82467f297d1bdc8dcbc6b99819fd77869

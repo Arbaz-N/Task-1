@@ -1,1 +1,5 @@
+akjcn<<<<<<< HEAD
+ajcn
+=======
 Good moring
+>>>>>>> first
